@@ -1,0 +1,14 @@
+/* #1564822684 */
+_oEa.pmdenyall = 0;
+_oEa.website("iahorro-com");
+if (_oEa.isdef(typeof _oEa.uidset )) {
+  _oEa.uidset("mub6huXV527ri_z.MsqnJIKoMFGepT_1IJQUpo.mzcn_fpENkXVVSg--");
+}
+var _EaCP = {"cgip" : _oEa.hcgi
+,"tp":{"":""}
+};
+_oEa.mtrun = function() {
+};
+_oEa.mtrun();
+_oEa.websiteend();
+ /* end !config */
