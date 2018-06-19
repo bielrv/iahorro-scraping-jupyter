@@ -16,6 +16,6 @@ Check out [Scraping-BeautifulSoup.ipynb](https://github.com/bielrv/scraping-jupy
 - **feature2**
 - **Fees**:
   - Study Fee
-  - Openning Fee
+  - Opening Fee
   - Cancellation Fee
 - **Lender logo**
